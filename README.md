@@ -54,7 +54,7 @@ A transactional sales dataset with:
 
 ## Screenshots
 
-![image alt](https://github.com/bigruntown/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboardd.jpg?raw=true)
+![image alt](https://github.com/bigruntown/Sales-Analysis-Dashboard/blob/main/screenshot.jpg?raw=true)
 
 
 ## How to view this project
