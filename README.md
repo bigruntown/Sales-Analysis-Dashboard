@@ -54,10 +54,8 @@ A transactional sales dataset with:
 
 ## Screenshots
 
-> Replace these with actual PNG screenshots once you've taken them in Power BI Desktop.
+![image alt](https://github.com/bigruntown/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboardd.png?raw=true)
 
-![YoY KPI cards](screenshots/yoy-kpis.png)
-![Payment & Category breakdowns](screenshots/breakdowns.png)
 
 ## How to view this project
 
